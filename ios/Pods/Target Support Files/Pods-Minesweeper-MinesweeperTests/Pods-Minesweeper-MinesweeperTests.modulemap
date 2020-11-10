@@ -1,0 +1,6 @@
+module Pods_Minesweeper_MinesweeperTests {
+  umbrella header "Pods-Minesweeper-MinesweeperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
