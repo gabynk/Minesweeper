@@ -26,7 +26,4 @@ $ npx react-native run-android
 $ npx react-native run-ios
 ```
 
-## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 Feito com ♥ by Gabriele Nakassima
