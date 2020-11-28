@@ -1,14 +1,17 @@
-# Minesweeper
+# 💣 Minesweeper 💣
 
 Minesweeper Game <br>
 Campo minado é um jogo que precisa revelar os campos sem que uma mina seja explodido. O jogo tem a opção de colocar uma bandeira nos campos que você achar que tenha minas e mostra a quantidade de minas que ainda podem existir. Além disso, também existem 3 níveis de dificuldade para jogar. <br>
 Esse jogo foi criado no curso do Cod3r Cursos administrado pelo Leonardo Leitão.
 
+## 🔖 Imagens do jogo
+
+![Home](.github/home.png)
+![Menu](.github/menu.png)
+![Win](.github/win.png)
+![Lose](.github/lose.png)
+
 ## 🛠 Tecnologias
-![Home](https://github.com/gabynk/Minesweeper/blob/main/.github/home.png)
-![Menu](https://github.com/gabynk/Minesweeper/blob/main/.github/menu.png)
-![Win](https://github.com/gabynk/Minesweeper/blob/main/.github/win.png)
-![Lose](https://github.com/gabynk/Minesweeper/blob/main/.github/lose.png)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -18,16 +21,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🎲 Rodando o jogo
 
+Clone o repositório
 ```
-// clone o repositório
 $ git clone https://github.com/gabynk/Minesweeper.git
+```
 
-// Instalar node_modules
+Instale node_modules
+```
 $ npm install
+```
 
-// rodar a aplicação no android ou ios
+Rode a aplicação no android ou ios
+```
 $ npx react-native run-android
 $ npx react-native run-ios
 ```
 
-Feito com ♥ by Gabriele Nakassima
+Desenvolvido com 💜 por  **Gabriele Nakassima**
