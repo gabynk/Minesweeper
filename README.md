@@ -5,6 +5,10 @@ Campo minado é um jogo que precisa revelar os campos sem que uma mina seja expl
 Esse jogo foi criado no curso do Cod3r Cursos administrado pelo Leonardo Leitão.
 
 ## 🛠 Tecnologias
+![Home](https://github.com/gabynk/Minesweeper/blob/main/.github/home.png)
+![Menu](https://github.com/gabynk/Minesweeper/blob/main/.github/menu.png)
+![Win](https://github.com/gabynk/Minesweeper/blob/main/.github/win.png)
+![Lose](https://github.com/gabynk/Minesweeper/blob/main/.github/lose.png)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
