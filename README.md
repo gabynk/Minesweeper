@@ -1,15 +1,15 @@
-# 💣 Minesweeper 💣
+# 💣💥 Minesweeper 💥💣
 
 Minesweeper Game <br>
 Campo minado é um jogo que precisa revelar os campos sem que uma mina seja explodido. O jogo tem a opção de colocar uma bandeira nos campos que você achar que tenha minas e mostra a quantidade de minas que ainda podem existir. Além disso, também existem 3 níveis de dificuldade para jogar. <br>
 Esse jogo foi criado no curso do Cod3r Cursos administrado pelo Leonardo Leitão.
 
-## 🔖 Imagens do jogo
+## 🚩 Imagens do jogo
 
-![Home](.github/home.png)
-![Menu](.github/menu.png)
-![Win](.github/win.png)
-![Lose](.github/lose.png)
+<img src=".github/home.png" width="250" height="500" />
+<img src=".github/menu.png" width="250" height="500" />
+<img src=".github/win.png" width="250" height="500" />
+<img src=".github/lose.png" width="250" height="500" />
 
 ## 🛠 Tecnologias
 
