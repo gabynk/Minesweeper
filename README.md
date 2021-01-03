@@ -6,10 +6,8 @@ Esse jogo foi criado no curso do Cod3r Cursos administrado pelo Leonardo Leitão
 
 ## 🚩 Imagens do jogo
 
-<img src=".github/home.png" width="250" height="500" />
-<img src=".github/menu.png" width="250" height="500" />
-<img src=".github/win.png" width="250" height="500" />
-<img src=".github/lose.png" width="250" height="500" />
+<img src=".github/home.png" width="250" height="500" /> <img src=".github/menu.png" width="250" height="500" />
+<img src=".github/win.png" width="250" height="500" /> <img src=".github/lose.png" width="250" height="500" />
 
 ## 🛠 Tecnologias
 
